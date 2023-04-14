@@ -22,7 +22,7 @@
     <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png"/> </a>  
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>
-    <a href="https://www.postman.com/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/null/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/> </a> 
+    <a href="https://www.postman.com/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/null/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/> </a> 
     <a href="https://wordpress.com/?aff=27964" target="_blank"> <img src="https://icons8.com/icon/13664/wordpress"/> </a> 
      <a href="https://www.coreldraw.com/en/?gclid=CjwKCAjw8-OhBhB5EiwADyoY1eA9_78uBXRpWFGdgPMFknAOhWODSJr-IJVQwub2zV-H7rL00-BY1xoC17QQAvD_BwE" target="_blank"> <img src="https://icons8.com/icon/tGW1lN11LBlx/coreldraw"/> </a> 
     <a href="https://www.adobe.com/in/products/photoshop/landpa.html?gclid=CjwKCAjw8-OhBhB5EiwADyoY1fWxUJNi3WNgyyhz4mRqkrBZUIEPfhBdZpIxaNAsO_Bn16UFdf7fXRoCd90QAvD_BwE&sdid=SGDJMMG3&mv=search&ef_id=CjwKCAjw8-OhBhB5EiwADyoY1fWxUJNi3WNgyyhz4mRqkrBZUIEPfhBdZpIxaNAsO_Bn16UFdf7fXRoCd90QAvD_BwE:G:s&s_kwcid=AL!3085!3!585712413968!e!!g!!photoshop!16470706475!133281435039" target="_blank"> <img src="https://icons8.com/icon/13677/adobe-photoshop"/> </a> 
