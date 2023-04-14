@@ -24,10 +24,10 @@
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>
     <a href="https://www.postman.com/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/> </a> 
     <a href="https://wordpress.com/?aff=27964" target="_blank"> <img src="https://img.icons8.com/color/48/null/wordpress.png"/> </a> 
-     <a href="https://www.coreldraw.com/en/?gclid=CjwKCAjw8-OhBhB5EiwADyoY1eA9_78uBXRpWFGdgPMFknAOhWODSJr-IJVQwub2zV-H7rL00-BY1xoC17QQAvD_BwE" target="_blank"> <img src="https://icons8.com/icon/tGW1lN11LBlx/coreldraw"/> </a> 
-    <a href="https://www.adobe.com/in/products/photoshop/landpa.html?gclid=CjwKCAjw8-OhBhB5EiwADyoY1fWxUJNi3WNgyyhz4mRqkrBZUIEPfhBdZpIxaNAsO_Bn16UFdf7fXRoCd90QAvD_BwE&sdid=SGDJMMG3&mv=search&ef_id=CjwKCAjw8-OhBhB5EiwADyoY1fWxUJNi3WNgyyhz4mRqkrBZUIEPfhBdZpIxaNAsO_Bn16UFdf7fXRoCd90QAvD_BwE:G:s&s_kwcid=AL!3085!3!585712413968!e!!g!!photoshop!16470706475!133281435039" target="_blank"> <img src="https://icons8.com/icon/13677/adobe-photoshop"/> </a> 
-    <a href="https://www.adobe.com/in/products/premiere.html?gclid=CjwKCAjw8-OhBhB5EiwADyoY1eXAj-UEZxfvA4mN8EMZVn70lqTZBvPVWTCMWpTi_5JcwI6o-eDfRxoCxncQAvD_BwE&sdid=STLMM87Z&mv=search&ef_id=CjwKCAjw8-OhBhB5EiwADyoY1eXAj-UEZxfvA4mN8EMZVn70lqTZBvPVWTCMWpTi_5JcwI6o-eDfRxoCxncQAvD_BwE:G:s&s_kwcid=AL!3085!3!473191824150!e!!g!!adobe%20premiere%20pro!221167988!17525565668" target="_blank"> <img src="https://icons8.com/icon/e57Y1CnsOasB/adobe-premiere-pro"/> </a> 
-     <a href="https://helpx.adobe.com/in/xd/get-started.html" target="_blank"> <img src="https://icons8.com/icon/4VVL78edhbW9/adobe-xd"/> </a> 
+     <a href="https://www.coreldraw.com/en/?gclid=CjwKCAjw8-OhBhB5EiwADyoY1eA9_78uBXRpWFGdgPMFknAOhWODSJr-IJVQwub2zV-H7rL00-BY1xoC17QQAvD_BwE" target="_blank"> <img src="https://img.icons8.com/color/48/null/coreldraw.png"/> </a> 
+    <a href="https://www.adobe.com/in/products/photoshop/landpa.html?gclid=CjwKCAjw8-OhBhB5EiwADyoY1fWxUJNi3WNgyyhz4mRqkrBZUIEPfhBdZpIxaNAsO_Bn16UFdf7fXRoCd90QAvD_BwE&sdid=SGDJMMG3&mv=search&ef_id=CjwKCAjw8-OhBhB5EiwADyoY1fWxUJNi3WNgyyhz4mRqkrBZUIEPfhBdZpIxaNAsO_Bn16UFdf7fXRoCd90QAvD_BwE:G:s&s_kwcid=AL!3085!3!585712413968!e!!g!!photoshop!16470706475!133281435039" target="_blank"> <img src="https://img.icons8.com/color/48/null/adobe-photoshop--v1.png"/> </a> 
+    <a href="https://www.adobe.com/in/products/premiere.html?gclid=CjwKCAjw8-OhBhB5EiwADyoY1eXAj-UEZxfvA4mN8EMZVn70lqTZBvPVWTCMWpTi_5JcwI6o-eDfRxoCxncQAvD_BwE&sdid=STLMM87Z&mv=search&ef_id=CjwKCAjw8-OhBhB5EiwADyoY1eXAj-UEZxfvA4mN8EMZVn70lqTZBvPVWTCMWpTi_5JcwI6o-eDfRxoCxncQAvD_BwE:G:s&s_kwcid=AL!3085!3!473191824150!e!!g!!adobe%20premiere%20pro!221167988!17525565668" target="_blank"> <img src="https://img.icons8.com/color/48/null/adobe-premiere-pro--v1.png"/> </a> 
+     <a href="https://helpx.adobe.com/in/xd/get-started.html" target="_blank"> <img src="https://img.icons8.com/color/48/null/adobe-xd--v1.png"/> </a> 
     
 </p>
 
@@ -55,7 +55,7 @@
 <a href = "https://twitter.com/kayamkhan2001"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/_mohdmaroof/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UCleV1sQOj1LXkT_MaI4b07A"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-<a href = "http://linkedin.com/in/mohdmaroof9001"><img src="https://icons8.com/icon/13930/linkedin"/></a>
+<a href = "http://linkedin.com/in/mohdmaroof9001"><img src="https://img.icons8.com/color/48/null/linkedin.png"/></a>
     
 </p>
 
