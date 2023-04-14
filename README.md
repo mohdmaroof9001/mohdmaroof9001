@@ -28,6 +28,7 @@
     <a href="https://www.adobe.com/in/products/photoshop/landpa.html?gclid=CjwKCAjw8-OhBhB5EiwADyoY1fWxUJNi3WNgyyhz4mRqkrBZUIEPfhBdZpIxaNAsO_Bn16UFdf7fXRoCd90QAvD_BwE&sdid=SGDJMMG3&mv=search&ef_id=CjwKCAjw8-OhBhB5EiwADyoY1fWxUJNi3WNgyyhz4mRqkrBZUIEPfhBdZpIxaNAsO_Bn16UFdf7fXRoCd90QAvD_BwE:G:s&s_kwcid=AL!3085!3!585712413968!e!!g!!photoshop!16470706475!133281435039" target="_blank"> <img src="https://img.icons8.com/color/48/null/adobe-photoshop--v1.png"/> </a> 
     <a href="https://www.adobe.com/in/products/premiere.html?gclid=CjwKCAjw8-OhBhB5EiwADyoY1eXAj-UEZxfvA4mN8EMZVn70lqTZBvPVWTCMWpTi_5JcwI6o-eDfRxoCxncQAvD_BwE&sdid=STLMM87Z&mv=search&ef_id=CjwKCAjw8-OhBhB5EiwADyoY1eXAj-UEZxfvA4mN8EMZVn70lqTZBvPVWTCMWpTi_5JcwI6o-eDfRxoCxncQAvD_BwE:G:s&s_kwcid=AL!3085!3!473191824150!e!!g!!adobe%20premiere%20pro!221167988!17525565668" target="_blank"> <img src="https://img.icons8.com/color/48/null/adobe-premiere-pro--v1.png"/> </a> 
      <a href="https://helpx.adobe.com/in/xd/get-started.html" target="_blank"> <img src="https://img.icons8.com/color/48/null/adobe-xd--v1.png"/> </a> 
+     <a href="https://www.adobe.com/in/products/photoshop-lightroom/campaign/pricing.html?gclid=CjwKCAjw8-OhBhB5EiwADyoY1WL489VVrqYtqm3Niln685mT7ngEBF-v7Yo_vx_mbVSdwGf4zBZELxoC3SsQAvD_BwE&sdid=SGDJMMG3&mv=search&ef_id=CjwKCAjw8-OhBhB5EiwADyoY1WL489VVrqYtqm3Niln685mT7ngEBF-v7Yo_vx_mbVSdwGf4zBZELxoC3SsQAvD_BwE:G:s&s_kwcid=AL!3085!3!444587838929!e!!g!!lightroom!221443148!17534780708" target="_blank"> <img src="https://img.icons8.com/color/48/null/adobe-lightroom--v1.png"/> </a> 
     
 </p>
 
